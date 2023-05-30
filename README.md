@@ -50,4 +50,7 @@ node app.js
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
+## Deployment
+
+The project is deployed and accessible at [https://blog-with-database-3qz1.onrender.com]
 
